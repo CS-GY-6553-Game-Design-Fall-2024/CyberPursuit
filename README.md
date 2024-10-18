@@ -40,18 +40,22 @@ This iteration of the game was built on _Unity3D ver. 2022.3.46f1_ with the _Web
 ## Resources
 
 ### Audio:
-    * [https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK?si=99a5f312b35d48bf](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK?si=99a5f312b35d48bf)
-    * [https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5?si=497a93fab85b4bdd](https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5?si=497a93fab85b4bdd)
-    * [https://open.spotify.com/track/3uSLlTmbDkIlZ5GXaLhRg4?si=9604440be31d4f1a](https://open.spotify.com/track/3uSLlTmbDkIlZ5GXaLhRg4?si=9604440be31d4f1a)
+
+* [https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK?si=99a5f312b35d48bf](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK?si=99a5f312b35d48bf)
+* [https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5?si=497a93fab85b4bdd](https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5?si=497a93fab85b4bdd)
+* [https://open.spotify.com/track/3uSLlTmbDkIlZ5GXaLhRg4?si=9604440be31d4f1a](https://open.spotify.com/track/3uSLlTmbDkIlZ5GXaLhRg4?si=9604440be31d4f1a)
  
 ### Sprites:
-    * [Player Character Sprites and Animations](https://twelve02.itch.io/ethan-the-hero)
-    * [https://free-game-assets.itch.io/free-homeless-character-sprite-sheets-pixel-art](https://free-game-assets.itch.io/free-homeless-character-sprite-sheets-pixel-art)
-    * [https://brullov.itch.io/fire-animation](https://brullov.itch.io/fire-animation)
+
+* [Player Character Sprites and Animations](https://twelve02.itch.io/ethan-the-hero)
+* [https://free-game-assets.itch.io/free-homeless-character-sprite-sheets-pixel-art](https://free-game-assets.itch.io/free-homeless-character-sprite-sheets-pixel-art)
+* [https://brullov.itch.io/fire-animation](https://brullov.itch.io/fire-animation)
 
 ### Miscellaneous:
-    * [Background Parallax](https://free-game-assets.itch.io/free-city-backgrounds-pixel-art)
-    * [Ads](https://andelrodis.itch.io/books-for-32x32)
+
+* [Background Parallax](https://free-game-assets.itch.io/free-city-backgrounds-pixel-art)
+* [Ads](https://andelrodis.itch.io/books-for-32x32)
 
 ### Game Engine: 
-    * Unity3D ver. 2022.3.46f1
+
+* Unity3D ver. 2022.3.46f1
