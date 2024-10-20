@@ -21,7 +21,7 @@ Go through the city to find you stolen car! Beware of obstacles, including fires
 * **Zhongyu Zhang**
     * Player Mechanics and Movement
     * Scene Interactions
-* **Ian McCullough**
+* **Ian McCullough** (point of contact: `iam331@nyu.edu`)
     * Asset Collection
     * Audio Design
     * UI Testing
